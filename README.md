@@ -1,5 +1,5 @@
 # ClassRoom-BookingSystem
-A simple Classroom Booking system assigned to my group was a Mini Project towards the partial fulfilment for the subject -Object-oriented programming (DS2102). The code is written in the Python programming language, the Tkinter library is used for the GUI to make it interactive and MySQL is used for the database.<br/>
+A simple Classroom Booking system is a Mini Project assigned to my group towards the partial fulfilment for the subject -Object-oriented programming (DS2102). The code is written in the Python programming language, the Tkinter library is used for the GUI to make it interactive and MySQL is used for the database.<br/>
 ## Introduction
 * This is a preliminary classroom booking system.<br/>
 * Developed using Python library, Tkinter as front and MySQL for database management.<br/>
